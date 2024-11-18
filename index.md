@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [The Biggest Dilemma I Will Face as a Programmer](/pdf/EthicsPaper1.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** CSCI 325 Object-Oriented Programming
+-   **Grade:** A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Copyright, Fair Use, and License Terms and Agreements](/pdf/EthicsPaper2.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 301 Survey of Scripting Languages
+-   **Grade:** A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The THERAC-25 Accidents and the Questions They Raise](/pdf/EthicsPaper3.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 315 Data Structure Analysis
+-   **Grade:** A
 
 ---
 
