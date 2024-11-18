@@ -59,8 +59,8 @@ Presentations
 
 ### [The Marriott Data Breach](/pdf/Marriott_Presentation_pdf.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 419 Database Management
+- **Grade:** A
 
 ---
 
