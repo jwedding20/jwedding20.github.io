@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Paging Presentation](/pdf/Paging_Presentation.pdf)
+### [Paging Presentation](/pdf/Paging_Presentation_pdf.pdf)
 
 - **Class:** CSCI 431 Operating Systems
 - **Grade:** A
