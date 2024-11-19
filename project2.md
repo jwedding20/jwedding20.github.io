@@ -6,7 +6,7 @@ Scheduler
 -   **Class:** CSCI 431 Operating Systems
 -   **Grade:** A
 -   **Language(s):** C
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Scheduler Repository](https://github.com/jwedding20/portfolio_proj2.git)  
     (Please [email me](mailto:jrwedding@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
