@@ -6,7 +6,7 @@ Minimum Overlap Coverage
 -   **Class:** CSCI 315 Data Structure Analysis
 -   **Grade:** C
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [Minimum Overlap Repository](https://github.com/jwedding20/portfolio_proj4.git)  
     (Please [email me](mailto:jrwedding@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
