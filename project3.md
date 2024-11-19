@@ -1,17 +1,17 @@
 [Back to Portfolio](./)
 
-HTML Parsing and Crawling
+Sum of Subsets
 ===============
 
--   **Class:** CSCI 315 Data Structure Analysis
+-   **Class:** CSCI 415 Algorithms
 -   **Grade:** A
 -   **Language(s):** C++
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:jrwedding@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-It's important to know if your html tags are balanced. Given an html file, this program will tell you if the html code is balanced, as well as tell you how many unique pages can be visited from each page.
+This is a very simple program that randomly generates an array of 10 numbers from -20 to 20. It then calculates all of the possible subests that add up to 0, and outputs them to the screen.
 
 ## How to compile and run the program
 
@@ -19,19 +19,20 @@ How to run the project.
 
 ```bash
 cd ./project
-make run
+g++ -o subSum subsetSum.cpp
+./subSum
 ```
 
 ## UI Design
 
-This project is entirely on the command line. The only interaction the program requires with the user is running it. When the user runs the program, the html files in the 'pages' folder are parsed and then their names are displayed, as well as columns displaying whether or not the pages are balanced, and how many unique pages can be visited (see Fig 1).
+This project is entirely on the command line. The only interaction the program requires with the user is running it. When the user runs the program, random set of 10 numbers is generated and output to the screen. The program then displays the subsets that add up to 0, should there be any, along with the elapsed time.
 
-![screenshot](images/proj1_fig1.png)  
+![screenshot](images/proj3_fig1.png)  
 Fig 1. Output of the program
 
 ## 3. Additional Considerations
 
-The user may add more html files to the 'pages' folder to see if it is balanced. In this file the user may also add links to other pages within the folder to see how may unique pages can be visited.
+The program could be modified to accomodate more than 10 numbers, and a larger range than -20 to 20.
 
 
 [Back to Portfolio](./)
