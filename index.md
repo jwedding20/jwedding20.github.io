@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/thumbnail2.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Sum of Subsets | CSCI 415](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/thumbnail3.jpg)
 
 ---
 ### [Minimum Overlap Coverage | CSCI 315](project4)
