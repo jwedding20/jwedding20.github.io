@@ -39,11 +39,11 @@ make priority_rr
 
 This project is entirely on the command line. The only interaction the program requires with the user is running it. When the user enters which scheduling method they want to use (and runs the program), the program displays the task that is running. The output for the fcfs, sjf, and priority methods are as follows: 
 
-Running task = [task number][priority][time_cost] for _ units
+    Running task = [task number][priority][time_cost] for _ units
 
 The output for the rr and priority-rr methods are as follows:
 
-Running task = [task_number][time_cost][time_remaining] for _ units
+    Running task = [task_number][time_cost][time_remaining] for _ units
 
 These outputs can also be seen in Figures 1 and 2, respectively.
 
