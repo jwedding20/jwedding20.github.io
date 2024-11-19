@@ -17,14 +17,14 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/thumbnail2.jpg)
 
 ---
-### [Sum of Subsets | CSCI 415](project3)
+### [Minimum Overlap Coverage | CSCI 415](project4)
 
-![Project 3 Thumbnail Name](images/thumbnail3.jpg)
+![Project 3 Thumbnail Name](images/thumbnail4.jpg)
 
 ---
-### [Minimum Overlap Coverage | CSCI 315](project4)
+### [Sum of Subsets | CSCI 315](project3)
 
-![Project 4 Thumbnail Name](images/thumbnail4.jpg)
+![Project 4 Thumbnail Name](images/thumbnail3.jpg)
 
 ---
 
