@@ -6,7 +6,7 @@ Sum of Subsets
 -   **Class:** CSCI 415 Algorithms
 -   **Grade:** A
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/jwedding20/hello_app.git)  
+-   **Source Code Repository:** [Sum of Subsets Repository](https://github.com/jwedding20/portfolio_proj3.git)  
     (Please [email me](mailto:jrwedding@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
